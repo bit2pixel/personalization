@@ -16,7 +16,7 @@ echo " - Creating ~/.vim/syntax"
 mkdir -p ~/.vim/syntax
 
 echo " - Installing new color scheme..."
-cp -f ./renan.vim ~/.vim/syntax/
+cp -f ./hero.vim ~/.vim/syntax/
 
 echo
 echo " - Downloading plugins..."
@@ -26,7 +26,7 @@ SCRIPT=`readlink -f $0`
 SCRIPTPATH=`dirname $SCRIPT`
 
 cd ~/.vim/bundle/
-while read line; do git clone $line; done < $SCRIPTPATH/vim_plugins
+while read line; do git clone $line; done < $SCRIPTPATH/vim_hero_plugins
 
 echo
 echo " - Installing pathogen..."
