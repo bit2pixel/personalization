@@ -101,6 +101,10 @@ For beautiful video tutorials visit -> http://net.tutsplus.com/sessions/vim-esse
 
 * **Tag Bar**:
 
+    ```
+    NOTE: You have to install ctags before using this plugin.
+    ```
+    
     For listing and jumping to the members of the module; variables, classes, methods.
     Use ```CTRL + T``` to toggle.
     
