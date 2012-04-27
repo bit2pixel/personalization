@@ -24,7 +24,9 @@ Vim Hero is my customized Vim that I mainly use for web development and Python c
 
 If you want to try it just run the ```setup.sh``` file after cloning the repo.
 
-Vim Hero conatains several must have plugins for Vim:
+Vim Hero contains several must have plugins for Vim.
+
+For beautiful video tutorials visit -> http://net.tutsplus.com/sessions/vim-essential-plugins/
 
 * **Nerd Commenter**:
 
