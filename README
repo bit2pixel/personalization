@@ -1,1 +1,4 @@
-My config files
+This repo contains my custom configuration files.
+
+Vim Hero is my customized Vim that I mainly use for web development and Python coding.
+If you want to try it just run the setup.sh file after cloning the repo.
